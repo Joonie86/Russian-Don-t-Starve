@@ -1698,7 +1698,7 @@ msgstr "Сообщение дня"
 #. STRINGS.UI.MAINSCREEN.NEXTUPDATEDAYS
 #: STRINGS.UI.MAINSCREEN.NEXTUPDATEDAYS
 msgid "Next Update: %d days"
-msgstr "Next Update: %d days"
+msgstr "Следующее обновление: %d days"
 
 #. STRINGS.UI.MAINSCREEN.NEWGAMETYPE
 #: STRINGS.UI.MAINSCREEN.NEWGAMETYPE
