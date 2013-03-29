@@ -1588,8 +1588,8 @@ msgid ""
 "Don't Starve is currently in beta. Please tell us about any problems that "
 "you encounter in the forum."
 msgstr ""
-"Don't Starve is currently in beta. Please tell us about any problems that "
-"you encounter in the forum."
+"Don't Starve все еще в бета версии. Пожалуйста сообщайте обо всех, вами "
+"найденных, ошибках на форум."
 
 #. STRINGS.UI.MAINSCREEN.TESTING
 #: STRINGS.UI.MAINSCREEN.TESTING
@@ -1649,7 +1649,7 @@ msgstr "Сообщить мне!"
 #. STRINGS.UI.MAINSCREEN.NEXTBUILDIMMINENT
 #: STRINGS.UI.MAINSCREEN.NEXTBUILDIMMINENT
 msgid "Next build imminent!"
-msgstr "Next build imminent!"
+msgstr "Обновление неизбежно!"
 
 #. STRINGS.UI.MAINSCREEN.IMPORTSUCCESSDESC
 #: STRINGS.UI.MAINSCREEN.IMPORTSUCCESSDESC
@@ -1689,7 +1689,7 @@ msgstr "Сообщение дня"
 #. STRINGS.UI.MAINSCREEN.NEXTUPDATEDAYS
 #: STRINGS.UI.MAINSCREEN.NEXTUPDATEDAYS
 msgid "Next Update: %d days"
-msgstr "Следующее обновление: %d days"
+msgstr " Обновление через: %d дней"
 
 #. STRINGS.UI.MAINSCREEN.NEWGAMETYPE
 #: STRINGS.UI.MAINSCREEN.NEWGAMETYPE
@@ -1836,7 +1836,7 @@ msgstr "В процессе работы следующих модов(а) были выявлены ошибки:"
 #. STRINGS.UI.MAINSCREEN.LASTBUILDDAYS
 #: STRINGS.UI.MAINSCREEN.LASTBUILDDAYS
 msgid "Last build %d days ago"
-msgstr "Last build %d days ago"
+msgstr "Обновлено %d дня назад"
 
 #. STRINGS.UI.MAINSCREEN.IMPORT
 #: STRINGS.UI.MAINSCREEN.IMPORT
