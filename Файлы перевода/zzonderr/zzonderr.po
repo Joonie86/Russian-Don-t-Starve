@@ -29,7 +29,7 @@ msgstr "Я БЬЮ ДЕРЕВЬЯ !!"
 #. STRINGS.CHARACTER_QUOTES.wilson
 #: STRINGS.CHARACTER_QUOTES.wilson
 msgid "\"I will conquer it all with the power of my MIND!\""
-msgstr "\"Я буду побеждать силой своего РАЗУМА!\""
+msgstr "\"Я покорю всё силой РАЗУМА!\""
 
 #. STRINGS.CHARACTER_QUOTES.wendy
 #: STRINGS.CHARACTER_QUOTES.wendy
@@ -44,7 +44,7 @@ msgstr "\"Модуль переживания не отвечает\""
 #. STRINGS.CHARACTER_QUOTES.willow
 #: STRINGS.CHARACTER_QUOTES.willow
 msgid "\"Things are so much prettier when they burn.\""
-msgstr "\"Вещи всегда красивее, когда они горят.\""
+msgstr "\"Вещи такие красивые, когда горят.\""
 
 #. STRINGS.CHARACTER_QUOTES.wes
 #: STRINGS.CHARACTER_QUOTES.wes
@@ -664,12 +664,12 @@ msgstr "НЯМ!"
 #. STRINGS.CHARACTER_TITLES.wilson
 #: STRINGS.CHARACTER_TITLES.wilson
 msgid "The Gentleman Scientist"
-msgstr "Ученый-Джентельмен"
+msgstr "Джентльмен ученый"
 
 #. STRINGS.CHARACTER_TITLES.wendy
 #: STRINGS.CHARACTER_TITLES.wendy
 msgid "The Bereaved"
-msgstr "Утратившая"
+msgstr "Обездоленная"
 
 #. STRINGS.CHARACTER_TITLES.wx78
 #: STRINGS.CHARACTER_TITLES.wx78
@@ -14729,7 +14729,7 @@ msgstr "Исследования"
 #. STRINGS.CHARACTER_DESCRIPTIONS.wilson
 #: STRINGS.CHARACTER_DESCRIPTIONS.wilson
 msgid "*Grows a magnificent beard"
-msgstr "*Растет великолепная борода"
+msgstr "*Растёт великолепная борода"
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.wendy
 #: STRINGS.CHARACTER_DESCRIPTIONS.wendy
@@ -14739,7 +14739,7 @@ msgstr "*Есть \"ночной друг\""
 #. STRINGS.CHARACTER_DESCRIPTIONS.wx78
 #: STRINGS.CHARACTER_DESCRIPTIONS.wx78
 msgid "*Can eat spoiling food with no penalty"
-msgstr "*Может есть испорченую еду без штрафов"
+msgstr "*Может без штрафа есть испорченную еду"
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.willow
 #: STRINGS.CHARACTER_DESCRIPTIONS.willow
@@ -14762,7 +14762,7 @@ msgstr ""
 #. STRINGS.CHARACTER_DESCRIPTIONS.wickerbottom
 #: STRINGS.CHARACTER_DESCRIPTIONS.wickerbottom
 msgid "*Gets a bonus tech level"
-msgstr "*Получает бонус к технология"
+msgstr "*Получает бонус к технологиям"
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.wolfgang
 #: STRINGS.CHARACTER_DESCRIPTIONS.wolfgang
@@ -14770,7 +14770,7 @@ msgid ""
 "*Higher health, bigger stomach\n"
 "*Hits harder"
 msgstr ""
-"*Много здоровья, большой желудок\n"
+"*Выше здоровье, больше желудок\n"
 "*Сильнее бьет"
 
 #. STRINGS.EPITAPHS.1
@@ -14791,7 +14791,7 @@ msgstr "Тут сказано:\"Молоко.Яйца.Бекон.\""
 #. STRINGS.EPITAPHS.4
 #: STRINGS.EPITAPHS.4
 msgid "Hey that's my name!"
-msgstr "Эй, на ней мое имя!"
+msgstr "Эй, тут моё имя!"
 
 #. STRINGS.PIG_TALK_FIND_MEAT.1
 #: STRINGS.PIG_TALK_FIND_MEAT.1
