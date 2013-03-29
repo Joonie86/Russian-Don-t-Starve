@@ -11644,7 +11644,7 @@ msgstr "Это пучок травы."
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.GRASS.PICKED
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.GRASS.PICKED
 msgid "I cut it down in the prime of its life."
-msgstr "Я срубил его в расцвете его жизни."
+msgstr "Я сорвал ее в расцвете ее жизни."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_DIRT
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_DIRT
