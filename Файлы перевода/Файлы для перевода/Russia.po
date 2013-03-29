@@ -489,7 +489,7 @@ msgstr "В нем должно быть немного магии...."
 #. STRINGS.RECIPE_DESC.EARMUFFSHAT
 #: STRINGS.RECIPE_DESC.EARMUFFSHAT
 msgid "A fuzzy little bit of warmth"
-msgstr "Очень мало тепла"
+msgstr "Немного пушистого тепла"
 
 #. STRINGS.RECIPE_DESC.TRUNKVEST_WINTER
 #: STRINGS.RECIPE_DESC.TRUNKVEST_WINTER
@@ -5840,7 +5840,7 @@ msgstr "ГОРИ!"
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.HEATROCK.GENERIC
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.HEATROCK.GENERIC
 msgid "A fire would make this even better!"
-msgstr "Огонь может сделать его еще лучше!"
+msgstr "Огонь сделает его еще лучше!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.HEATROCK.HOT
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.HEATROCK.HOT
@@ -5940,7 +5940,7 @@ msgstr "Значит ли это, как огонь?"
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.RESEARCHLAB3
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.RESEARCHLAB3
 msgid "A dark and powerful energy radiates from it."
-msgstr "От него исходит мощная темная энергия."
+msgstr "От него исходит могущественная темная энергия."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.KRAMPUS
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.KRAMPUS
@@ -6375,7 +6375,7 @@ msgstr "Как Оруэлла."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.PIGMAN.WEREPIG
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.PIGMAN.WEREPIG
 msgid "A creature of the night!"
-msgstr "Ночное существо!"
+msgstr "Создание ночи!"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.PIGMAN.DEAD
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.PIGMAN.DEAD
@@ -6606,7 +6606,7 @@ msgstr "Смерть, когда я меньше всего этого ожидал."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.BLUE_CAP
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BLUE_CAP
 msgid "A fungus to preserve the monotony."
-msgstr "Гриб, чтобы сохранить монотонность."
+msgstr "Гриб, чтобы восполнить здоровье."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.TENT
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.TENT
@@ -6721,7 +6721,7 @@ msgstr "Раньше я радовался инструментам, как этим."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESTER
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESTER
 msgid "A fuzzy ball of emptiness."
-msgstr "Нечеткий мяч пустоты."
+msgstr "Пушистый мохнатый шар."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.REDGEM
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.REDGEM
@@ -6806,7 +6806,7 @@ msgstr "Оно качается на сухом ветре."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SUNKBOAT
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.SUNKBOAT
 msgid "A cruel trick!"
-msgstr "Жестокий прием!"
+msgstr "Злая шутка!"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WASPHIVE
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WASPHIVE
@@ -9341,7 +9341,7 @@ msgstr "ОБНАРУЖЕН ВЫСОКИЙ УРОВЕНЬ УГРОЗЫ"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.SPIDER_WARRIOR.SLEEPING
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.SPIDER_WARRIOR.SLEEPING
 msgid "THREAT SUSPENDED"
-msgstr "УГРОЗА ПРИОСТАНОВЛЕНА"
+msgstr "УГРОЗА ОСТАНОВЛЕНА"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.TALLBIRDEGG
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.TALLBIRDEGG
@@ -12456,7 +12456,7 @@ msgstr "Это грзяь... или НЕТ?"
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEE.GENERIC
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEE.GENERIC
 msgid "To bee or not to bee."
-msgstr "Пчелить или не пчелить."
+msgstr "Бжжжить или не Бжиить."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEE.HELD
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEE.HELD
@@ -13741,7 +13741,7 @@ msgstr "Не органический и в тоже время органический!"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FIREPIT.GENERIC
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FIREPIT.GENERIC
 msgid "A fire pit."
-msgstr "Остатки от костра."
+msgstr "Кострище."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FIREPIT.OUT
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FIREPIT.OUT
@@ -13851,7 +13851,7 @@ msgstr "Любопытно люминесцентный."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.AXE
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.AXE
 msgid "A dual inclined plane attached to a lever."
-msgstr "Заостреная плоскость, присоединенная к ручке."
+msgstr "Острое лезвие, присоединенное к ручке."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MERMHOUSE
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MERMHOUSE
@@ -14191,7 +14191,7 @@ msgstr "Соленые, тем не менее удовлетворенные."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BUTTERFLY.GENERIC
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BUTTERFLY.GENERIC
 msgid "A colourful lepidopteran."
-msgstr "Красивые  крылья."
+msgstr "Красивое чешуйчатокрылое."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BUTTERFLY.HELD
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BUTTERFLY.HELD
@@ -14326,7 +14326,7 @@ msgstr "Еще не готов к сбору."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GRASS.GENERIC
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GRASS.GENERIC
 msgid "A cluster graminoid stalks."
-msgstr "Куча травянистых стеблей."
+msgstr "Куча  стеблей травы."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GRASS.PICKED
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GRASS.PICKED
@@ -14616,7 +14616,7 @@ msgstr "Рабочий инструмент."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MARSH_BUSH
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MARSH_BUSH
 msgid "A cluster of brambles."
-msgstr "Куча еживики."
+msgstr "Куча ягод."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ROCK
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ROCK
