@@ -1588,8 +1588,8 @@ msgid ""
 "Don't Starve is currently in beta. Please tell us about any problems that "
 "you encounter in the forum."
 msgstr ""
-"Don't Starve is currently in beta. Please tell us about any problems that "
-"you encounter in the forum."
+"Don't Starve все еще в бета тесировании. ѕожалуйста сообщайте обо всех "
+"найденных багам, нам на форум."
 
 #. STRINGS.UI.MAINSCREEN.TESTING
 #: STRINGS.UI.MAINSCREEN.TESTING
