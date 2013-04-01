@@ -14,7 +14,7 @@ msgstr ""
 #. STRINGS.PIG_TALK_HELP_CHOP_WOOD.1
 #: STRINGS.PIG_TALK_HELP_CHOP_WOOD.1
 msgid "KILL TREE!"
-msgstr "УНИЧТОЖИТЬ ДЕРЕВЬЯ!"
+msgstr "УНИЧТОЖИТЬ ДЕРЕВО!"
 
 #. STRINGS.PIG_TALK_HELP_CHOP_WOOD.2
 #: STRINGS.PIG_TALK_HELP_CHOP_WOOD.2
@@ -24,7 +24,7 @@ msgstr "РАЗБЕЙ ЭТО ДЕРЕВО!!"
 #. STRINGS.PIG_TALK_HELP_CHOP_WOOD.3
 #: STRINGS.PIG_TALK_HELP_CHOP_WOOD.3
 msgid "I PUNCH TREE!"
-msgstr "Я БЬЮ ДЕРЕВЬЯ !!"
+msgstr "Я БЬЮ ДЕРЕВО!"
 
 #. STRINGS.CHARACTER_QUOTES.wilson
 #: STRINGS.CHARACTER_QUOTES.wilson
@@ -39,7 +39,7 @@ msgstr "\"Абигейл? Вернись! Я с тобой недоиграла.\" "
 #. STRINGS.CHARACTER_QUOTES.wx78
 #: STRINGS.CHARACTER_QUOTES.wx78
 msgid "\"EMPATHY MODULE NOT RESPONDING\""
-msgstr "\"Модуль переживания не отвечает\""
+msgstr "\"МОДУЛЬ СОЧУВСТВИЯ НЕ ОТВЕЧАЕТ\""
 
 #. STRINGS.CHARACTER_QUOTES.willow
 #: STRINGS.CHARACTER_QUOTES.willow
@@ -64,12 +64,12 @@ msgstr "\"Я могуч! Нет никого могущественнее меня!\""
 #. STRINGS.MAXWELL_TEST.1
 #: STRINGS.MAXWELL_TEST.1
 msgid "Say pal, you don't look so good."
-msgstr "Эй приятель, ты плохо выглядишь."
+msgstr "Эй приятель, неважно выглядишь."
 
 #. STRINGS.MAXWELL_TEST.2
 #: STRINGS.MAXWELL_TEST.2
 msgid "You better find something to eat before night comes!"
-msgstr "Лучше бы найти что-нибудь съестное, пока не наступила ночь!"
+msgstr "Тебе лучше найти что-нибудь поесть, пока не наступила ночь!"
 
 #. STRINGS.PIG_TALK_RUNAWAY_WILSON.1
 #: STRINGS.PIG_TALK_RUNAWAY_WILSON.1
@@ -79,17 +79,17 @@ msgstr "СЛИШКОМ БЛИЗКО!"
 #. STRINGS.PIG_TALK_RUNAWAY_WILSON.2
 #: STRINGS.PIG_TALK_RUNAWAY_WILSON.2
 msgid "STAY AWAY!"
-msgstr "ОТОЙДИ!"
+msgstr "ДЕРЖИСЬ ПОДАЛЬШЕ!"
 
 #. STRINGS.PIG_TALK_RUNAWAY_WILSON.3
 #: STRINGS.PIG_TALK_RUNAWAY_WILSON.3
 msgid "YOU BACK OFF!"
-msgstr "НАЗАД!"
+msgstr "ОТВАЛИ!"
 
 #. STRINGS.PIG_TALK_RUNAWAY_WILSON.4
 #: STRINGS.PIG_TALK_RUNAWAY_WILSON.4
 msgid "THAT MY SPACE."
-msgstr "ЭТО МОЕ ПРОСТРАНСТВО."
+msgstr "ЭТО МОЁ ПРОСТРАНСТВО."
 
 #. STRINGS.PIG_GUARD_TALK_TORCH.1
 #: STRINGS.PIG_GUARD_TALK_TORCH.1
@@ -109,22 +109,22 @@ msgstr "БОЛЬШЕ ОГНЯ"
 #. STRINGS.PIG_GUARD_TALK_LOOKATWILSON.1
 #: STRINGS.PIG_GUARD_TALK_LOOKATWILSON.1
 msgid "YOU LEAVE NOW"
-msgstr "УХОДИ СЕЙЧАС"
+msgstr "УХОДИ"
 
 #. STRINGS.PIG_GUARD_TALK_LOOKATWILSON.2
 #: STRINGS.PIG_GUARD_TALK_LOOKATWILSON.2
 msgid "YOU GO AWAY"
-msgstr "ТЫ УХОДИШЬ"
+msgstr "ОТОЙДИ"
 
 #. STRINGS.PIG_GUARD_TALK_LOOKATWILSON.3
 #: STRINGS.PIG_GUARD_TALK_LOOKATWILSON.3
 msgid "YOU NO STAY"
-msgstr "ТЕБЕ НЕЛЬЗЯ ОСТАТЬСЯ"
+msgstr "НЕ СТОЙ ТУТ"
 
 #. STRINGS.RECIPE_DESC.TOPHAT
 #: STRINGS.RECIPE_DESC.TOPHAT
 msgid "The classiest hat of all."
-msgstr "Лучшая шляпа из всех."
+msgstr "Самая шикарная шляпа из всех."
 
 #. STRINGS.RECIPE_DESC.FISHINGROD
 #: STRINGS.RECIPE_DESC.FISHINGROD
@@ -139,27 +139,27 @@ msgstr "Для  выращивания семян"
 #. STRINGS.RECIPE_DESC.BEEFALOHAT
 #: STRINGS.RECIPE_DESC.BEEFALOHAT
 msgid "And you thought they smelled bad on the outside."
-msgstr "А ты думал, что они плохо пахнут только снаружи."
+msgstr "А ты думал, что они только снаружи плохо пахнут?"
 
 #. STRINGS.RECIPE_DESC.BEEMINE
 #: STRINGS.RECIPE_DESC.BEEMINE
 msgid "Weaponized bees. What could go wrong?"
-msgstr "Пчелиные патроны.Что может пойти не так?"
+msgstr "Боевые пчелы. Что может пойти не так?"
 
 #. STRINGS.RECIPE_DESC.FEATHERHAT
 #: STRINGS.RECIPE_DESC.FEATHERHAT
 msgid "Dress for your head."
-msgstr "Одежда для головы."
+msgstr "Украсьте вашу голову."
 
 #. STRINGS.RECIPE_DESC.BOOMERANG
 #: STRINGS.RECIPE_DESC.BOOMERANG
 msgid "It comes from a land down under."
-msgstr "Оно приходит из-под земли."
+msgstr "Привезён из страны, где все ходят вниз головами."
 
 #. STRINGS.RECIPE_DESC.MINERHAT
 #: STRINGS.RECIPE_DESC.MINERHAT
 msgid "Light up the night with your noggin."
-msgstr "Зажги свет на своей голове."
+msgstr "Почувствуй себя шахтером."
 
 #. STRINGS.RECIPE_DESC.RAINOMETER
 #: STRINGS.RECIPE_DESC.RAINOMETER
@@ -169,12 +169,12 @@ msgstr "Указывает вероятность осадков"
 #. STRINGS.RECIPE_DESC.BLOWDART_SLEEP
 #: STRINGS.RECIPE_DESC.BLOWDART_SLEEP
 msgid "Spit sleepiness at your enemies."
-msgstr "Сонливость у ваших врагов."
+msgstr "Плюньте сном в противников."
 
 #. STRINGS.RECIPE_DESC.HEATROCK
 #: STRINGS.RECIPE_DESC.HEATROCK
 msgid "Stores heat for travel."
-msgstr "Собирает тепло, для путешественников."
+msgstr "Хранит тепло для путешествий."
 
 #. STRINGS.RECIPE_DESC.ICEBOX
 #: STRINGS.RECIPE_DESC.ICEBOX
@@ -184,7 +184,7 @@ msgstr "Замедляет порчу продуктов."
 #. STRINGS.RECIPE_DESC.PURPLEGEM
 #: STRINGS.RECIPE_DESC.PURPLEGEM
 msgid "By your colours combined!"
-msgstr "По вашему цвета в сочетании!"
+msgstr "Вы смешали цвета!"
 
 #. STRINGS.RECIPE_DESC.STRAWHAT
 #: STRINGS.RECIPE_DESC.STRAWHAT
@@ -194,7 +194,7 @@ msgstr "Какая модная!"
 #. STRINGS.RECIPE_DESC.BEDROLL_STRAW
 #: STRINGS.RECIPE_DESC.BEDROLL_STRAW
 msgid "Sleep through the night "
-msgstr "Чтобы всю ночь спать"
+msgstr "Чтобы проспать всю ночь"
 
 #. STRINGS.RECIPE_DESC.CUTSTONE
 #: STRINGS.RECIPE_DESC.CUTSTONE
@@ -219,32 +219,32 @@ msgstr "Заморозить врагов в движении."
 #. STRINGS.RECIPE_DESC.BUGNET
 #: STRINGS.RECIPE_DESC.BUGNET
 msgid "Catch bugs"
-msgstr "Для поимки бабочек "
+msgstr "Для ловли насекомых"
 
 #. STRINGS.RECIPE_DESC.BOARDS
 #: STRINGS.RECIPE_DESC.BOARDS
 msgid "Like logs but flatter"
-msgstr "Как бревна, но гладкие"
+msgstr "Те же брёвна только плоские"
 
 #. STRINGS.RECIPE_DESC.NIGHTMAREFUEL
 #: STRINGS.RECIPE_DESC.NIGHTMAREFUEL
 msgid "An evil residue used by the foolish and the crazy."
-msgstr "Злой остаток использовать глупо."
+msgstr "Остаток зла используют только глупцы и сумасшедшие."
 
 #. STRINGS.RECIPE_DESC.TURF_CHECKERFLOOR
 #: STRINGS.RECIPE_DESC.TURF_CHECKERFLOOR
 msgid "Nicely checkered marble tiles."
-msgstr "Красивая мраморная плитка."
+msgstr "Красивая клетчатая мраморная плитка."
 
 #. STRINGS.RECIPE_DESC.HAMMER
 #: STRINGS.RECIPE_DESC.HAMMER
 msgid "Deconstruct structures"
-msgstr "Для разрушения построек"
+msgstr "Для разбирания построек"
 
 #. STRINGS.RECIPE_DESC.MEATRACK
 #: STRINGS.RECIPE_DESC.MEATRACK
 msgid "The jerkiest of racks."
-msgstr "Для просушки мяса."
+msgstr "Для сушки мяса."
 
 #. STRINGS.RECIPE_DESC.ARMORWOOD
 #: STRINGS.RECIPE_DESC.ARMORWOOD
@@ -254,42 +254,42 @@ msgstr "Защищает вас от повреждений"
 #. STRINGS.RECIPE_DESC.BIRDTRAP
 #: STRINGS.RECIPE_DESC.BIRDTRAP
 msgid "Capture winged beasts"
-msgstr "Для отлова птиц"
+msgstr "Для ловли крылатых существ"
 
 #. STRINGS.RECIPE_DESC.PICKAXE
 #: STRINGS.RECIPE_DESC.PICKAXE
 msgid "Break down rocks"
-msgstr "Для добычи камни"
+msgstr "Для разрушения горных пород"
 
 #. STRINGS.RECIPE_DESC.RESURRECTIONSTATUE
 #: STRINGS.RECIPE_DESC.RESURRECTIONSTATUE
 msgid "Resurrect yourself with the power of meat."
-msgstr "Излучает электрическую энергию!"
+msgstr "Воскресите себя силой мяса."
 
 #. STRINGS.RECIPE_DESC.FAST_FARMPLOT
 #: STRINGS.RECIPE_DESC.FAST_FARMPLOT
 msgid "Grows seeds a bit faster"
-msgstr "Для выращивания семян, немного быстрее"
+msgstr "Выращивает семена немного быстрее"
 
 #. STRINGS.RECIPE_DESC.BLOWDART_FIRE
 #: STRINGS.RECIPE_DESC.BLOWDART_FIRE
 msgid "Spit fire at your enemies"
-msgstr "Стрелять огнем в противников"
+msgstr "Стреляет поджигающими дротиками."
 
 #. STRINGS.RECIPE_DESC.BLOWDART_PIPE
 #: STRINGS.RECIPE_DESC.BLOWDART_PIPE
 msgid "Spit teeth at your enemies."
-msgstr "Стрелять клыками в противников."
+msgstr "Стреляет клыками."
 
 #. STRINGS.RECIPE_DESC.HOMESIGN
 #: STRINGS.RECIPE_DESC.HOMESIGN
 msgid "Make your mark upon the world."
-msgstr "Оставьте свой след в мире."
+msgstr "Делает отметку на карте."
 
 #. STRINGS.RECIPE_DESC.BEEHAT
 #: STRINGS.RECIPE_DESC.BEEHAT
 msgid "Protection against angry bees"
-msgstr "Защита от злых пчел"
+msgstr "Защищает от злых пчел"
 
 #. STRINGS.RECIPE_DESC.TORCH
 #: STRINGS.RECIPE_DESC.TORCH
@@ -299,22 +299,22 @@ msgstr "Портативный источник света"
 #. STRINGS.RECIPE_DESC.PUMPKIN_LANTERN
 #: STRINGS.RECIPE_DESC.PUMPKIN_LANTERN
 msgid "Spooky illumination"
-msgstr "Призрачное освещение"
+msgstr "Жутковатое освещение"
 
 #. STRINGS.RECIPE_DESC.SPIDERHAT
 #: STRINGS.RECIPE_DESC.SPIDERHAT
 msgid "Spiders will call you 'mom'."
-msgstr "Пауки буду называть вас 'мама'."
+msgstr "Пауки буду называть тебя 'мама'."
 
 #. STRINGS.RECIPE_DESC.PAPYRUS
 #: STRINGS.RECIPE_DESC.PAPYRUS
 msgid "For writing things"
-msgstr "Для записи мыслей"
+msgstr "Для записей"
 
 #. STRINGS.RECIPE_DESC.BACKPACK
 #: STRINGS.RECIPE_DESC.BACKPACK
 msgid "Carry more stuff."
-msgstr "Для хранения вещей."
+msgstr "Переносите больше вещей."
 
 #. STRINGS.RECIPE_DESC.GUNPOWDER
 #: STRINGS.RECIPE_DESC.GUNPOWDER
@@ -334,22 +334,22 @@ msgstr "Рубить деревья СТИЛЬНО!"
 #. STRINGS.RECIPE_DESC.TRAP_TEETH_MAXWELL
 #: STRINGS.RECIPE_DESC.TRAP_TEETH_MAXWELL
 msgid "Pops up and bites whoever steps on it"
-msgstr "Поднимается и кусает тех, кто на нее наступает "
+msgstr "Неожиданно выпригивает и кусает того, кто на неё наступил"
 
 #. STRINGS.RECIPE_DESC.SHOVEL
 #: STRINGS.RECIPE_DESC.SHOVEL
 msgid "Move plants around"
-msgstr "Для выкапывания растений"
+msgstr "Для перемещения растительности"
 
 #. STRINGS.RECIPE_DESC.TENT
 #: STRINGS.RECIPE_DESC.TENT
 msgid "Restores sanity, but costs time and hunger"
-msgstr "Восстанавливает разум, но тратит время и голод"
+msgstr "Восстанавливает разум, но тратит время и сытость"
 
 #. STRINGS.RECIPE_DESC.GOLDENPITCHFORK
 #: STRINGS.RECIPE_DESC.GOLDENPITCHFORK
 msgid "Rearrange the whole world"
-msgstr "Перестройте целый мир"
+msgstr "Перестройте весь мир"
 
 #. STRINGS.RECIPE_DESC.TURF_CARPETFLOOR
 #: STRINGS.RECIPE_DESC.TURF_CARPETFLOOR
@@ -359,7 +359,7 @@ msgstr "Пахнет как бифало."
 #. STRINGS.RECIPE_DESC.BIRDCAGE
 #: STRINGS.RECIPE_DESC.BIRDCAGE
 msgid "A happy home for your avian friends."
-msgstr "Счастливый дом для вашей птички."
+msgstr "Домик для ваших пернатых друзей."
 
 #. STRINGS.RECIPE_DESC.WINTEROMETER
 #: STRINGS.RECIPE_DESC.WINTEROMETER
@@ -369,17 +369,17 @@ msgstr "Измерение температуры окружающей среды"
 #. STRINGS.RECIPE_DESC.COOKPOT
 #: STRINGS.RECIPE_DESC.COOKPOT
 msgid "Make better food"
-msgstr "Для того, что бы еду лучше сделать"
+msgstr "Готовит более вкусную еду"
 
 #. STRINGS.RECIPE_DESC.UMBRELLA
 #: STRINGS.RECIPE_DESC.UMBRELLA
 msgid "Mitigate the effects of atmospheric moisture."
-msgstr "Для укрытия от дождя"
+msgstr "Уменьшает воздействия атмосферных осадков."
 
 #. STRINGS.RECIPE_DESC.LIGHTNING_ROD
 #: STRINGS.RECIPE_DESC.LIGHTNING_ROD
 msgid "Protection from strikes."
-msgstr "Защита от молнии."
+msgstr "Защита от молний."
 
 #. STRINGS.RECIPE_DESC.HEALINGSALVE
 #: STRINGS.RECIPE_DESC.HEALINGSALVE
@@ -394,12 +394,12 @@ msgstr "Плотно сотканная трава "
 #. STRINGS.RECIPE_DESC.TRUNKVEST_SUMMER
 #: STRINGS.RECIPE_DESC.TRUNKVEST_SUMMER
 msgid "Warm, but light enough for summer."
-msgstr "Тепло,но достаточно светло, для лета."
+msgstr "Теплый и достаточно легкий для лета."
 
 #. STRINGS.RECIPE_DESC.NIGHTSWORD
 #: STRINGS.RECIPE_DESC.NIGHTSWORD
 msgid "Lucid dreaming damage."
-msgstr "Урон прозрачных сновидений."
+msgstr "Наносит урон  сновиденям."
 
 #. STRINGS.RECIPE_DESC.RESEARCHLAB3
 #: STRINGS.RECIPE_DESC.RESEARCHLAB3
@@ -414,7 +414,7 @@ msgstr "Для успокоения нервов."
 #. STRINGS.RECIPE_DESC.TURF_ROAD
 #: STRINGS.RECIPE_DESC.TURF_ROAD
 msgid "Build your own road to nowhere."
-msgstr "Построить дорогу вникуда."
+msgstr "Постройте дорогу вникуда."
 
 #. STRINGS.RECIPE_DESC.PIGHOUSE
 #: STRINGS.RECIPE_DESC.PIGHOUSE
@@ -439,17 +439,17 @@ msgstr "Стена из сена. Не очень крепкая."
 #. STRINGS.RECIPE_DESC.WALL_STONE_ITEM
 #: STRINGS.RECIPE_DESC.WALL_STONE_ITEM
 msgid "Stone wall segments."
-msgstr "Сегмент каменной стены."
+msgstr "Каменная стена."
 
 #. STRINGS.RECIPE_DESC.WALL_WOOD_ITEM
 #: STRINGS.RECIPE_DESC.WALL_WOOD_ITEM
 msgid "Wooden wall segments."
-msgstr "Сегмент деревянной стены."
+msgstr "Стена из дерева."
 
 #. STRINGS.RECIPE_DESC.FIREPIT
 #: STRINGS.RECIPE_DESC.FIREPIT
 msgid "A safer, more efficient campfire"
-msgstr "Более безопасный  костер"
+msgstr "Более энергоэффективный и безопансый костер"
 
 #. STRINGS.RECIPE_DESC.PITCHFORK
 #: STRINGS.RECIPE_DESC.PITCHFORK
@@ -464,17 +464,17 @@ msgstr "Источник света ночью"
 #. STRINGS.RECIPE_DESC.ARMOR_SANITY
 #: STRINGS.RECIPE_DESC.ARMOR_SANITY
 msgid "Protects your body, but not your mind"
-msgstr "Защита для тела, но не для ума"
+msgstr "Защищает тело, но не разум"
 
 #. STRINGS.RECIPE_DESC.ONEMANBAND
 #: STRINGS.RECIPE_DESC.ONEMANBAND
 msgid "Even a crazed musician can amass quite a following."
-msgstr "Даже сумашедший музыкант может накопить на это."
+msgstr "Даже у чокнутого музыканта могут быть поклонники."
 
 #. STRINGS.RECIPE_DESC.BUSHHAT
 #: STRINGS.RECIPE_DESC.BUSHHAT
 msgid "Good for hiding!"
-msgstr "Отличная шляпа, что бы скрыться!"
+msgstr "Отлично подходит для маскировки!"
 
 #. STRINGS.RECIPE_DESC.TRAP
 #: STRINGS.RECIPE_DESC.TRAP
@@ -484,7 +484,7 @@ msgstr "Для отлова маленьких существ"
 #. STRINGS.RECIPE_DESC.WINTERHAT
 #: STRINGS.RECIPE_DESC.WINTERHAT
 msgid "There must be some magic in it..."
-msgstr "В нем должно быть немного магии...."
+msgstr "Должно быть тут не обошлось без магии..."
 
 #. STRINGS.RECIPE_DESC.EARMUFFSHAT
 #: STRINGS.RECIPE_DESC.EARMUFFSHAT
@@ -494,17 +494,17 @@ msgstr "Немного пушистого тепла"
 #. STRINGS.RECIPE_DESC.TRUNKVEST_WINTER
 #: STRINGS.RECIPE_DESC.TRUNKVEST_WINTER
 msgid "Warm enough for winter storms."
-msgstr "Достаточно теплый, для метелей."
+msgstr "Достаточно теплый для метелей."
 
 #. STRINGS.RECIPE_DESC.FIRESTAFF
 #: STRINGS.RECIPE_DESC.FIRESTAFF
 msgid "Harness the power of combustion!"
-msgstr "Мощь сгорания!"
+msgstr "Обуздайте огненную стихию!"
 
 #. STRINGS.RECIPE_DESC.RESEARCHLAB2
 #: STRINGS.RECIPE_DESC.RESEARCHLAB2
 msgid "Unlock even more crafting recipes"
-msgstr "Для разблокировки еще больше рецептов"
+msgstr "Разблокируйте еще больше рецептов"
 
 #. STRINGS.RECIPE_DESC.AMULET
 #: STRINGS.RECIPE_DESC.AMULET
