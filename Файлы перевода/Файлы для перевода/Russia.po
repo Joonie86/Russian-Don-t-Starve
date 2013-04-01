@@ -5405,12 +5405,12 @@ msgstr "Пучок травы, он почти бесполезен."
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.GRASS.BARREN
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.GRASS.BARREN
 msgid "It needs poop."
-msgstr "Он нуждается в корме."
+msgstr "Подкормить бы."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.GRASS.BURNING
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.GRASS.BURNING
 msgid "Fire! Wooo!"
-msgstr "Огонь!Вооу!"
+msgstr "Огонь! Даааа!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BISHOP
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BISHOP
@@ -5425,7 +5425,7 @@ msgstr "Ой. Я надеюсь он умер на пике своей славы."
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.TALLBIRD
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TALLBIRD
 msgid "I don't think it wants to be friends."
-msgstr "Я не думаю, что она хочет дружить."
+msgstr "Вряд ли она хочет подружиться..."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.FARMPLOT.GENERIC
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.FARMPLOT.GENERIC
@@ -5440,7 +5440,7 @@ msgstr "Торопись, Куча грязи. Покорми меня!"
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.FARMPLOT.NEEDSFERTILIZER
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.FARMPLOT.NEEDSFERTILIZER
 msgid "Stupid thing needs poop."
-msgstr "Глупой вещи нужен  корм."
+msgstr "Куче грязи нужны удобрения."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPIDERGLAND
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPIDERGLAND
@@ -5455,7 +5455,7 @@ msgstr "Это жало!"
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.ICEBOX
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.ICEBOX
 msgid "That is the opposite of fire."
-msgstr "Это  противоположность огня."
+msgstr "Это полная противоположность огня."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.KNIGHT
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.KNIGHT
@@ -5465,7 +5465,7 @@ msgstr "Это пони!"
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SMALLMEAT_DRIED
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SMALLMEAT_DRIED
 msgid "Chewy, but satisfying."
-msgstr "Твердое,сойдет."
+msgstr "Твердовато... Ладно, сойдет."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.KOALEFANT_WINTER
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.KOALEFANT_WINTER
@@ -5480,7 +5480,7 @@ msgstr "Ой,  мне не нравится как она выглядит."
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BASALT
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BASALT
 msgid "It's too hard to break!"
-msgstr "Эго слишком трудно сломать!"
+msgstr "Его сложно сломать!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.KRAMPUS_SACK
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.KRAMPUS_SACK
@@ -5500,17 +5500,17 @@ msgstr "Хватит смотреть на меня!"
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGHOUSE.GENERIC
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGHOUSE.GENERIC
 msgid "These pigs have questionable taste in architecture"
-msgstr "Эти свиньи имеют сомнительный архитектурный вкус"
+msgstr "Эти свиньи имеют сомнительный вкус в архитектуре"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGHOUSE.LIGHTSOUT
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGHOUSE.LIGHTSOUT
 msgid "You jerk! Let me in!"
-msgstr "Ты придурок! Пусти меня!"
+msgstr "Эй, придурок, а ну быстро впусти меня!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGHOUSE.FULL
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGHOUSE.FULL
 msgid "He's doing pig things in there."
-msgstr "Они делают свиные вещи, там, внутри."
+msgstr "Они делают там свинские вещи."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.ICEHOUND
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.ICEHOUND
