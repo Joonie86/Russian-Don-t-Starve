@@ -1589,7 +1589,7 @@ msgid ""
 "you encounter in the forum."
 msgstr ""
 "Don't Starve все еще в бета тесировании. Пожалуйста сообщайте обо всех "
-"найденных багам, нам на форум."
+"найденных багах, нам на форум."
 
 #. STRINGS.UI.MAINSCREEN.TESTING
 #: STRINGS.UI.MAINSCREEN.TESTING
