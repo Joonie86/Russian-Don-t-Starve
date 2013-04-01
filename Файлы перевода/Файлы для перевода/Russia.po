@@ -1836,7 +1836,7 @@ msgstr "В процессе работы следующих модов(а) были выявлены ошибки:"
 #. STRINGS.UI.MAINSCREEN.LASTBUILDDAYS
 #: STRINGS.UI.MAINSCREEN.LASTBUILDDAYS
 msgid "Last build %d days ago"
-msgstr "Last build %d days ago"
+msgstr "Обновлено %d дней назад"
 
 #. STRINGS.UI.MAINSCREEN.IMPORT
 #: STRINGS.UI.MAINSCREEN.IMPORT
