@@ -144,7 +144,7 @@ msgstr "Фирменный запах Биффало"
 #. STRINGS.RECIPE_DESC.BEEMINE
 #: STRINGS.RECIPE_DESC.BEEMINE
 msgid "Weaponized bees. What could go wrong?"
-msgstr "Боевые пчелы. Что может пойти не так?"
+msgstr "Пчелиная бомба. Что может пойти не так?"
 
 #. STRINGS.RECIPE_DESC.FEATHERHAT
 #: STRINGS.RECIPE_DESC.FEATHERHAT
@@ -3620,7 +3620,7 @@ msgstr "Волосы с бороды"
 #. STRINGS.NAMES.BUSHHAT
 #: STRINGS.NAMES.BUSHHAT
 msgid "Bush Hat"
-msgstr "Широкополая шляпа"
+msgstr "Кустошляпа"
 
 #. STRINGS.NAMES.GOLDENSHOVEL
 #: STRINGS.NAMES.GOLDENSHOVEL
@@ -3775,7 +3775,7 @@ msgstr "Маленькая птица"
 #. STRINGS.NAMES.WALL_HAY
 #: STRINGS.NAMES.WALL_HAY
 msgid "Hay Wall"
-msgstr "Стена из сена "
+msgstr "Соломенная стена"
 
 #. STRINGS.NAMES.TRINKET_9
 #: STRINGS.NAMES.TRINKET_9
@@ -3785,7 +3785,7 @@ msgstr "Пуговицы"
 #. STRINGS.NAMES.HEATROCK
 #: STRINGS.NAMES.HEATROCK
 msgid "Heat Stone"
-msgstr "Горячий камень"
+msgstr "Теплый камень"
 
 #. STRINGS.NAMES.TRINKET_10
 #: STRINGS.NAMES.TRINKET_10
@@ -4050,7 +4050,7 @@ msgstr "Щупальце"
 #. STRINGS.NAMES.ARMORWOOD
 #: STRINGS.NAMES.ARMORWOOD
 msgid "Logsuit"
-msgstr "Деревная броня"
+msgstr "Деревянная броня"
 
 #. STRINGS.NAMES.TREASURECHEST
 #: STRINGS.NAMES.TREASURECHEST
@@ -4160,7 +4160,7 @@ msgstr "Червоточину"
 #. STRINGS.NAMES.PIGSKIN
 #: STRINGS.NAMES.PIGSKIN
 msgid "Pig Skin"
-msgstr "Свинная шкура"
+msgstr "Свинная шкурка"
 
 #. STRINGS.NAMES.HAMBAT
 #: STRINGS.NAMES.HAMBAT
@@ -4575,7 +4575,7 @@ msgstr "Птичья клетка"
 #. STRINGS.NAMES.TRAP_TEETH
 #: STRINGS.NAMES.TRAP_TEETH
 msgid "Tooth Trap"
-msgstr "Зубная ловушка"
+msgstr "Зубастая ловушка"
 
 #. STRINGS.NAMES.POMEGRANATE
 #: STRINGS.NAMES.POMEGRANATE
@@ -4805,7 +4805,7 @@ msgstr "Ням!"
 #. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_EAT.STALE
 #: STRINGS.CHARACTERS.WILLOW.ANNOUNCE_EAT.STALE
 msgid "That was kinda gross."
-msgstr "Это был интересный вопрос."
+msgstr "Это как вариант, что бы поесть."
 
 #. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_EAT.PAINFUL
 #: STRINGS.CHARACTERS.WILLOW.ANNOUNCE_EAT.PAINFUL
@@ -4915,7 +4915,7 @@ msgstr "Даже я не знаю все... Пока что."
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.TELEPORTATO_RING
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TELEPORTATO_RING
 msgid "This is too precious to burn!"
-msgstr "Это слишком ценная вещь, чтобы сжечь!"
+msgstr "Слишком ценная вещь, чтобы сжечь!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.PURPLEGEM
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PURPLEGEM
@@ -5025,7 +5025,7 @@ msgstr "Жаль, что все так быстро сгорело..."
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.EVERGREEN.BURNING
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.EVERGREEN.BURNING
 msgid "YES! BURN!"
-msgstr "ДА!ГОРИ!"
+msgstr "ДА! ГОРИ!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WALRUS
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WALRUS
@@ -5105,7 +5105,7 @@ msgstr "Глупые цветы, вы почти бесполезны."
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BERRIES
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BERRIES
 msgid "Red berries taste the best."
-msgstr "Красные ягоды самые вкусные."
+msgstr "Красные ягоды, самые вкусные."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.FIREHOUND
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.FIREHOUND
@@ -5120,7 +5120,7 @@ msgstr "Оооооо! Блестяшка!"
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.NITRE
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.NITRE
 msgid "There are tiny explosions trapped inside."
-msgstr "Внутри него маленькие взрывы."
+msgstr "Внутри нее маленькие взрывы."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRAP_TEETH_MAXWELL
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRAP_TEETH_MAXWELL
@@ -5240,7 +5240,7 @@ msgstr "Он очень мохнатый!"
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.REDGEM
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.REDGEM
 msgid "So pretty!"
-msgstr "Так красиво!"
+msgstr "Такой красивый!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHARCOAL
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHARCOAL
@@ -5280,7 +5280,7 @@ msgstr "Все молнии могут бить сюда."
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.LIGHTNING_ROD.CHARGED
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.LIGHTNING_ROD.CHARGED
 msgid "Aww, all glow but no fire."
-msgstr "Он светится, без огня."
+msgstr "Он светится, но без огня."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.HEALINGSALVE
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.HEALINGSALVE
@@ -5335,7 +5335,7 @@ msgstr "Он не настолько теплый, чтобы нравиться мне."
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRUNK_SUMMER
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRUNK_SUMMER
 msgid "Well, part of him is still cuddly."
-msgstr "Ну, часть его все еще приятная."
+msgstr "Ну, часть его все ещё приятна."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SMALLBIRD.GENERIC
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SMALLBIRD.GENERIC
@@ -5475,7 +5475,7 @@ msgstr "Он  выглядит  таким теплым ..."
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.HOUNDMOUND
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.HOUNDMOUND
 msgid "Uh oh, I don't like the look of that."
-msgstr "Ой,  мне не нравится как она выглядит."
+msgstr "Ой, мне не нравится его вид."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BASALT
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BASALT
@@ -5535,7 +5535,7 @@ msgstr "Я могу поймать жука!"
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPIDERQUEEN
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SPIDERQUEEN
 msgid "Kill it with fire!"
-msgstr "Убейте ее с помощью  огня!"
+msgstr "Убить ее с помощью  огня!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.NIGHTMAREFUEL
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.NIGHTMAREFUEL
@@ -5565,7 +5565,7 @@ msgstr "Теперь я буду с моим другом, навсегда."
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.FLOWER
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.FLOWER
 msgid "I don't have time to waste on flowers."
-msgstr "У меня нет времени, чтобы собирать   цветы."
+msgstr "У меня нет времени, чтобы собирать цветы."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WALL_STONE
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WALL_STONE
@@ -5575,7 +5575,7 @@ msgstr "Я думаю, что она нормальная."
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRUNK_COOKED
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRUNK_COOKED
 msgid "I'm still not sure I want to eat this."
-msgstr "Я все еще не уверен, что хочу съесть это."
+msgstr "Я все еще не уверена, что хочу съесть это."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.ARMORWOOD
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.ARMORWOOD
@@ -5590,7 +5590,7 @@ msgstr "Улетай отсюда, бабочка!"
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BUTTERFLY.HELD
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BUTTERFLY.HELD
 msgid "I want to squish it."
-msgstr "Я хочу,  раздавить его."
+msgstr "Я хочу,  раздавить ее."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.DIRTPILE
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.DIRTPILE
@@ -5605,7 +5605,7 @@ msgstr "Это мой страховой полис."
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.ANIMAL_TRACK
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.ANIMAL_TRACK
 msgid "It leads to my new friend."
-msgstr "Это привело к моему новому другу."
+msgstr "Это приведет к моему новому другу."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WALL_WOOD_ITEM
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WALL_WOOD_ITEM
@@ -5620,7 +5620,7 @@ msgstr "Востань мой феникс!"
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.TALLBIRDEGG_CRACKED.HOT
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TALLBIRDEGG_CRACKED.HOT
 msgid "Is there such a thing as too much fire?"
-msgstr "Есть такая вещь, как слишком много огня?"
+msgstr "Не слишком ли много огня?"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.TALLBIRDEGG_CRACKED.COLD
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TALLBIRDEGG_CRACKED.COLD
@@ -5630,12 +5630,12 @@ msgstr "Нужно больше огня!"
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.TALLBIRDEGG_CRACKED.LONG
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TALLBIRDEGG_CRACKED.LONG
 msgid "How long is this going to take?"
-msgstr "Как много это займет времени?"
+msgstr "Ну и долго еще ждать?"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.TALLBIRDEGG_CRACKED.SHORT
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TALLBIRDEGG_CRACKED.SHORT
 msgid "I'm getting tired of waiting."
-msgstr "Я устал ждать."
+msgstr "Я устала ждать."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SANITYROCK.INACTIVE
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SANITYROCK.INACTIVE
@@ -5655,7 +5655,7 @@ msgstr "Глупый гриб."
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.GEARS
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.GEARS
 msgid "These must make them move."
-msgstr "Они должны заставить "
+msgstr "Они должны заставить их двигаться."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.HOMESIGN
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.HOMESIGN
@@ -5680,17 +5680,17 @@ msgstr "Я просто хочу увидеть,как этот мир горит."
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.TELEPORTATO_BASE.PARTIAL
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TELEPORTATO_BASE.PARTIAL
 msgid "I'm making a monstrosity!"
-msgstr "Я делаю чудовище!"
+msgstr "Я создаю чудовище!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.FIREFLIES.GENERIC
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.FIREFLIES.GENERIC
 msgid "I wish they didn't run away!"
-msgstr "Я хочу , чтобы они  не смогли  далеко убежать!"
+msgstr "Они горят. Как красиво!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.FIREFLIES.HELD
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.FIREFLIES.HELD
 msgid "They're like little fires in my pocket!"
-msgstr "Они как маленькие пожары, в моем кармане!"
+msgstr "Они как маленькие огоньки в моем кармане!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.KILLERBEE.GENERIC
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.KILLERBEE.GENERIC
@@ -5720,12 +5720,12 @@ msgstr "Оно сухое и пахнет странно."
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.COOKEDMONSTERMEAT
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.COOKEDMONSTERMEAT
 msgid "It's still gross."
-msgstr "Все еще грубое."
+msgstr "Даже огонь не смог сделать его лучше."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEARDHAIR
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEARDHAIR
 msgid "Uh, where did this come from?"
-msgstr "Ну, откуда это взялось?"
+msgstr "Ну, откуда она взялась?"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.RABBITHOLE
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.RABBITHOLE
@@ -5745,12 +5745,12 @@ msgstr "Это сумка, для моего барахла."
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BUTTER
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BUTTER
 msgid "Tasty, and just a little bit insecty"
-msgstr "Маленькое, вкусное, насекомое."
+msgstr "Маленькое и вкусное масло."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BUTTERFLYWINGS
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BUTTERFLYWINGS
 msgid "No more flying for that butterfly!"
-msgstr "Никаких больше полетов,как бабочка!"
+msgstr "Больше эта бабочка летать не будет!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BUSHHAT
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BUSHHAT
@@ -5775,7 +5775,7 @@ msgstr "Так раздражает!"
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOSQUITO.HELD
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOSQUITO.HELD
 msgid "Keep that mouth away from me!"
-msgstr "Держите этот рот, подальше от меня!"
+msgstr "Держитесь от меня подальше!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESTER_EYEBONE.GENERIC
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESTER_EYEBONE.GENERIC
@@ -5785,17 +5785,17 @@ msgstr "Он на меня неприлично смотрит."
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESTER_EYEBONE.WAITING
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESTER_EYEBONE.WAITING
 msgid "At least it's not looking at me anymore."
-msgstr "По крайней мере, он не смотрит на меня больше."
+msgstr "По крайней мере, он больше на меян не смотрит."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.STATUEMAXWELL
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.STATUEMAXWELL
 msgid "I'm beginning to dislike that man."
-msgstr "Я начинаю любить этого человека."
+msgstr "Я начинаю ненавидеть этого человека."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SHOVEL
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SHOVEL
 msgid "Not great for fighting."
-msgstr "Не лучший  способ для борьбы."
+msgstr "Этим не очень удобно драться."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEE.GENERIC
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEE.GENERIC
@@ -5820,7 +5820,7 @@ msgstr "Это конец..."
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CAMPFIRE.EMBERS
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.CAMPFIRE.EMBERS
 msgid "Uh oh. It's almost gone!"
-msgstr "Ой-ой. Уже почти ушел!"
+msgstr "Ой-ой. Уже почти потух!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CAMPFIRE.HIGH
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.CAMPFIRE.HIGH
@@ -5855,7 +5855,7 @@ msgstr "Этот камень холодный."
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.HEATROCK.WARM
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.HEATROCK.WARM
 msgid "Heat without the flame... what fun is that?"
-msgstr "Тепло без огня.... это такая шутка?"
+msgstr "Тепло, но без огня... Что за чертовщина?"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BIRDCAGE.GENERIC
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BIRDCAGE.GENERIC
@@ -5870,7 +5870,7 @@ msgstr "Глупая птица.Поднимайся!"
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BIRDCAGE.OCCUPIED
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BIRDCAGE.OCCUPIED
 msgid "Ha! I have you now!"
-msgstr "Ха! Я  теперь тебя поймал!"
+msgstr "Ха! Теперь ты моя!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WINTEROMETER
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WINTEROMETER
@@ -5885,22 +5885,22 @@ msgstr "Я могу смотреть на него часами."
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.FIREPIT.OUT
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.FIREPIT.OUT
 msgid "I should make the fire come back."
-msgstr "Я должен развести огонь, и как можно быстрее."
+msgstr "Нужно вернуть пламя."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WALL_STONE_ITEM
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WALL_STONE_ITEM
 msgid "These are surprisingly heavy."
-msgstr "Оно на удивление, тяжелое."
+msgstr "А они очень тяжелые."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.TELEPORTATO_POTATO
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TELEPORTATO_POTATO
 msgid "Perhaps I could melt it into a more pleasing shape."
-msgstr "Возможно, я могла  бы переплавить ее в более приятную вещь."
+msgstr "Возможно, я могу переплавить её в более приятную форму."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.TELEPORTATO_BOX
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TELEPORTATO_BOX
 msgid "It feels warm."
-msgstr "Она чувствует тепло."
+msgstr "Чувствую тепло."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.PLANT_NORMAL.GENERIC
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PLANT_NORMAL.GENERIC
@@ -5910,7 +5910,7 @@ msgstr "Я буду есть это, если надо."
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.PLANT_NORMAL.READY
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PLANT_NORMAL.READY
 msgid "Oh boy. Vegetables."
-msgstr "О мальчик. Овощи."
+msgstr "О. Овощи."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.PLANT_NORMAL.GROWING
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PLANT_NORMAL.GROWING
@@ -5935,17 +5935,17 @@ msgstr "Он сам напросился."
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.TALLBIRDEGG
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TALLBIRDEGG
 msgid "Does it like fire?"
-msgstr "Значит ли это, как огонь?"
+msgstr "Интересно, а оно хорошо горит?"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.RESEARCHLAB3
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.RESEARCHLAB3
 msgid "A dark and powerful energy radiates from it."
-msgstr "От него исходит могущественная темная энергия."
+msgstr "От него исходит мощная темная энергия."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.KRAMPUS
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.KRAMPUS
 msgid "Stay back, you big jerk!"
-msgstr "Отойди, ты, придурок!"
+msgstr "Отвали, придурок!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BERRYBUSH.GENERIC
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BERRYBUSH.GENERIC
@@ -5955,7 +5955,7 @@ msgstr "Ммммм. Ягоды."
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BERRYBUSH.PICKED
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BERRYBUSH.PICKED
 msgid "I want more berries!"
-msgstr "Я хочу больше ягод!"
+msgstr "Я хочу еще ягод!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BERRYBUSH.BARREN
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BERRYBUSH.BARREN
@@ -5965,12 +5965,12 @@ msgstr "Ешьте корм, глупые растения!"
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WALL_HAY_ITEM
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WALL_HAY_ITEM
 msgid "Hmmm. I wonder if these will burn."
-msgstr "Хм. Мне интересно,  будет ли это гореть."
+msgstr "Хм. Мне интересно,  будет ли она гореть."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.NIGHTSWORD
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.NIGHTSWORD
 msgid "It's like my dreams can hurt real things!"
-msgstr "Это как мои мечты, которые могут повредить реальные вещи!"
+msgstr " Мои кошмары,  могут уничтожить реальные вещи!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGHEAD
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGHEAD
@@ -5990,7 +5990,7 @@ msgstr "Это моя любимая вещь в целом мире."
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEEFALOWOOL
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEEFALOWOOL
 msgid "Ha! I stole his hair!"
-msgstr "Ха! Я украла его волосы!"
+msgstr "Ха! Я украла его шерсть!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEEFALO.GENERIC
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEEFALO.GENERIC
@@ -6010,7 +6010,7 @@ msgstr "Э-э, ты  ходишь за мной?"
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEEFALO.NAKED
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEEFALO.NAKED
 msgid "Ha! He's all naked now!"
-msgstr "Ха! Он голый сейчас!"
+msgstr "Ха! Да он же голый!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.GOLDNUGGET
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.GOLDNUGGET
@@ -6020,7 +6020,7 @@ msgstr "На что я могу  потратить его?"
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BIRD_EGG
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BIRD_EGG
 msgid "It smells like a bird's butt."
-msgstr "Он пахнет как птичий зад."
+msgstr "Оно пахнет как птичий зад."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.TORCH
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TORCH
@@ -6030,12 +6030,12 @@ msgstr "Огонь такой красивый."
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.RAZOR
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.RAZOR
 msgid "Why did I build this?"
-msgstr "Почему я построил это?"
+msgstr "Зачем я сделал ее?"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRAP
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRAP
 msgid "It's a bit passive aggressive, but it'll work."
-msgstr "Он немного пассивно-агрессивный, но он будет работать."
+msgstr "Она немного пассивно-агрессивная, но она будет работать."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.PETALS_EVIL
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PETALS_EVIL
@@ -6085,7 +6085,7 @@ msgstr "Я поймаю всех этих жутких птиц."
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.PITCHFORK
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PITCHFORK
 msgid "Three times the pointiness."
-msgstr "Три раза заостренный."
+msgstr "С тремя зубцами."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.HAMMER
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.HAMMER
