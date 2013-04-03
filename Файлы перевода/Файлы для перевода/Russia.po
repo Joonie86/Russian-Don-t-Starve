@@ -6215,12 +6215,12 @@ msgstr "Мне не хватает необходимых материалов."
 #. STRINGS.CHARACTERS.WENDY.EAT_FOOD.TALLBIRDEGG_CRACKED
 #: STRINGS.CHARACTERS.WENDY.EAT_FOOD.TALLBIRDEGG_CRACKED
 msgid "I spared it the torment of living."
-msgstr "Я сократил его жизненые мучения."
+msgstr "Я избавила его от мучения."
 
 #. STRINGS.CHARACTERS.WENDY.ANNOUNCE_COLD
 #: STRINGS.CHARACTERS.WENDY.ANNOUNCE_COLD
 msgid "I am chilled to the bone."
-msgstr "Я продрог до костей."
+msgstr "Я продрогла до костей."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE_GENERIC
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE_GENERIC
@@ -6310,7 +6310,7 @@ msgstr "Он бродит бездумно, не обращая внимания на свою  судьбу."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.RABBIT.HELD
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.RABBIT.HELD
 msgid "He is safely in my embrace."
-msgstr "Он благополучно в моих объятиях."
+msgstr "Он в безопасности в моих объятиях."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.FLOWER_EVIL
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.FLOWER_EVIL
@@ -13261,7 +13261,7 @@ msgstr "Я не знаю, что это такое."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_BOOMERANG
 #: STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_BOOMERANG
 msgid "I misjudged the timing of its return."
-msgstr "Я ошибся сроках его возвращения."
+msgstr "Я не рассчитала время его возвращения."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_HUNT_LOST_TRAIL
 #: STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_HUNT_LOST_TRAIL
@@ -13511,7 +13511,7 @@ msgstr "Самодельное воспламеняющее  устройство."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HONEYCOMB
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HONEYCOMB
 msgid "Beeswax used for storing honey."
-msgstr "Воск используется для того, чтобы сохранить мед."
+msgstr "Воск используется для хранения мёда."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDEREGGSACK
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDEREGGSACK
@@ -13526,7 +13526,7 @@ msgstr "Интересно, как он подпитывается."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WALRUSHAT
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WALRUSHAT
 msgid "Should auld acquaintance be forgot?"
-msgstr "Должен старое знакомство  забыто?"
+msgstr " Должно быть давно знакомое было забыто?"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LEIF
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LEIF
@@ -13561,17 +13561,17 @@ msgstr "Он мертв."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BLUE_MUSHROOM.GENERIC
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BLUE_MUSHROOM.GENERIC
 msgid "It is a fungus."
-msgstr "Это грибок."
+msgstr "Это гриб."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BLUE_MUSHROOM.PICKED
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BLUE_MUSHROOM.PICKED
 msgid "It requires hydration before it will fruit again."
-msgstr "Нужно полить, прежде чем снова сажать фрукты."
+msgstr "Нужна поливка, чтобы снова появились фрукты."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BLUE_MUSHROOM.INGROUND
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BLUE_MUSHROOM.INGROUND
 msgid "It is dormant this time of day."
-msgstr "Днем он обычно скрывается."
+msgstr "В это время они обычно спят."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PETALS
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PETALS
@@ -13726,7 +13726,7 @@ msgstr "Впечатляющее улучшение простой трубы и табора."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESTER
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESTER
 msgid "A motile storage chest."
-msgstr "Ходячий ящик."
+msgstr "Ходячий сундук."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.REDGEM
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.REDGEM
@@ -13821,7 +13821,7 @@ msgstr "Похоже, на крошечные пирамиды."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.INSANITYROCK.ACTIVE
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.INSANITYROCK.ACTIVE
 msgid "I must be seeing things."
-msgstr "Я должен видеть вещи."
+msgstr "Я должна видеть вещи."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MONSTERMEAT
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MONSTERMEAT
@@ -13856,7 +13856,7 @@ msgstr "Острое лезвие, присоединенное к ручке."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MERMHOUSE
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MERMHOUSE
 msgid "Obviously dilapidated."
-msgstr "Очевидно, обветшали."
+msgstr "Очевидно, ветхий."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MERM
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MERM
@@ -13916,7 +13916,7 @@ msgstr "Он полон бактерий."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINTERHAT
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINTERHAT
 msgid "I knit it myself."
-msgstr "Я связал это сам."
+msgstr "Я связала это сам."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HOUND
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HOUND
@@ -13931,7 +13931,7 @@ msgstr "Маленький представитель класса Aves."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SMALLBIRD.HUNGRY
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SMALLBIRD.HUNGRY
 msgid "It requires sustenance."
-msgstr "Он требует питание."
+msgstr "Он требует пищу."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SMALLBIRD.STARVING
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SMALLBIRD.STARVING
@@ -13986,7 +13986,7 @@ msgstr "Отлично сохранившийся скелет человека."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TALLBIRD
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TALLBIRD
 msgid "Magnus Avis, fully developed."
-msgstr "Большая птица, полностью опустошена."
+msgstr "Большая птица, взрослая особь."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FARMPLOT.GENERIC
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FARMPLOT.GENERIC
@@ -14016,7 +14016,7 @@ msgstr "У него острый кончик"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ICEBOX
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ICEBOX
 msgid "It is a crude heat exchanger."
-msgstr "Это - сырой теплообменник."
+msgstr "Это - теплообменник сырья."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ANIMAL_TRACK
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ANIMAL_TRACK
@@ -14081,7 +14081,7 @@ msgstr "Молодые особи не так агресивны."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOSQUITO.GENERIC
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOSQUITO.GENERIC
 msgid "A thirsty female Haemagogus Devorator."
-msgstr "Измученый жаждой Haemagogus Devorator."
+msgstr "Измученная жаждой Пчела-Убийца."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOSQUITO.HELD
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOSQUITO.HELD
@@ -14121,7 +14121,7 @@ msgstr "Инструмент энтомолога"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDERQUEEN
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDERQUEEN
 msgid "That must be the center of the hive-mind."
-msgstr "Это должно быть паучья королева."
+msgstr "Это должно быть королева пауков."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.NIGHTMAREFUEL
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.NIGHTMAREFUEL
@@ -14151,7 +14151,7 @@ msgstr "Костер."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FLOWER
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FLOWER
 msgid "It's a wildflower. I'm unfamiliar with the species."
-msgstr "Это полевой цветок. Я не знаком с их разновидностями."
+msgstr "Это полевой цветок. Я не знакома с их разновидностями."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WALL_STONE
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WALL_STONE
@@ -14181,7 +14181,7 @@ msgstr "Сохраняет тепловую энергию"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ARMORWOOD
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ARMORWOOD
 msgid "Crude plate mail cobbled together from log sections."
-msgstr "\"Перевод в процессе\""
+msgstr "Броня сделанная из бревен, для защиты тела."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MEAT_DRIED
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MEAT_DRIED
@@ -14366,7 +14366,7 @@ msgstr "Глазной жезл не активен."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.STATUEMAXWELL
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.STATUEMAXWELL
 msgid "It's a visage of the man who trapped me here."
-msgstr "Это лицо человека, который держит меня здесь."
+msgstr "Это статуя человека, который держит меня здесь."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SHOVEL
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SHOVEL
@@ -14391,12 +14391,12 @@ msgstr "Твердый кварц."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEE.GENERIC
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEE.GENERIC
 msgid "Apis mellifera. Quite large!"
-msgstr "Apis mellifera. Очень большая!"
+msgstr "Пчела, очень большая!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BIRDCAGE.GENERIC
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BIRDCAGE.GENERIC
 msgid "This will safely contain one avian specimen."
-msgstr "Это будет бесполезно, содержать лишь один образец птицы."
+msgstr "Эта клетка рассчитана лишь для одной птицы."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BIRDCAGE.SLEEPING
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BIRDCAGE.SLEEPING
@@ -14406,7 +14406,7 @@ msgstr "Тссс!"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BIRDCAGE.OCCUPIED
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BIRDCAGE.OCCUPIED
 msgid "He is contained."
-msgstr "Он содержит."
+msgstr "Он уже заполнен."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRAP_TEETH
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRAP_TEETH
@@ -14461,7 +14461,7 @@ msgstr "Оно требует инкубации."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RESEARCHLAB3
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RESEARCHLAB3
 msgid "Perhaps I have gone too far."
-msgstr "Может быть, я зашел слишком далеко."
+msgstr "Может быть я зашла слишком далеко."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.KRAMPUS
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.KRAMPUS
@@ -14656,7 +14656,7 @@ msgstr "Мне нужен другой факел."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_DUSK
 #: STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_DUSK
 msgid "Night will be here soon."
-msgstr "Скоро наступит ночь."
+msgstr "Ночь скоро наступит."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_ENTER_DARK
 #: STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_ENTER_DARK
@@ -14686,7 +14686,7 @@ msgstr "Это было не очень свежим."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_EAT.PAINFUL
 #: STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_EAT.PAINFUL
 msgid "I should not have ingested that."
-msgstr "Я не должен был есть это."
+msgstr "Я не должна была есть это."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_EAT.SPOILED
 #: STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_EAT.SPOILED
