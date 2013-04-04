@@ -3385,7 +3385,7 @@ msgstr "Мрамор"
 #. STRINGS.NAMES.RESURRECTIONSTONE
 #: STRINGS.NAMES.RESURRECTIONSTONE
 msgid "Touch Stone"
-msgstr "Дотронуться до камня"
+msgstr "Свинной алтарь"
 
 #. STRINGS.NAMES.SAPLING
 #: STRINGS.NAMES.SAPLING
