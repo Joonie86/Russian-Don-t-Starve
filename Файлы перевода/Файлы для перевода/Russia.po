@@ -4360,7 +4360,7 @@ msgstr "Железная картошка"
 #. STRINGS.NAMES.TELEPORTATO_BOX
 #: STRINGS.NAMES.TELEPORTATO_BOX
 msgid "Box thing"
-msgstr "Странная коробка"
+msgstr "Странную коробку"
 
 #. STRINGS.NAMES.TELEPORTATO_RING
 #: STRINGS.NAMES.TELEPORTATO_RING
@@ -4695,7 +4695,7 @@ msgstr "Призрака"
 #. STRINGS.NAMES.FIREPIT
 #: STRINGS.NAMES.FIREPIT
 msgid "Fire Pit"
-msgstr "Кострище"
+msgstr "Походный костер"
 
 #. STRINGS.NAMES.ROTTENEGG
 #: STRINGS.NAMES.ROTTENEGG
@@ -6345,7 +6345,7 @@ msgstr "Ваша истинная природа проявляется!"
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WALL_HAY
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WALL_HAY
 msgid "That is the mere suggestion of defense."
-msgstr "Это недооборона."
+msgstr "Это простое решение для обороны."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.CROW.GENERIC
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.CROW.GENERIC
@@ -6385,7 +6385,7 @@ msgstr "Теперь он стал лучше."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.ROPE
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.ROPE
 msgid "That would be the easy way out of this place."
-msgstr "Это был бы простой выход."
+msgstr "Это был бы простой выход из этого места."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.TELEPORTATO_RING
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.TELEPORTATO_RING
@@ -6416,7 +6416,7 @@ msgstr "Земля отдала свои секреты."
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BABYBEEFALO
 msgid "Enjoy your youth. Soon you will learn the terrors of the real world."
 msgstr ""
-"Наслаждайтесь вашей молодость.. Скоро вы узнаете, ужасы реального мира."
+"Наслаждайтесь вашей молодость.. Скоро вы узнаете ужасы реального мира."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.CUTSTONE
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.CUTSTONE
@@ -6466,7 +6466,7 @@ msgstr "Может эти статуи составят мне компанию."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.TWIGS
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.TWIGS
 msgid "Plucked from the ground before their prime."
-msgstr "Сорванные с земли до расцвета сил."
+msgstr "Сорванные с земли до расцвета своих сил."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.MAXWELL
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.MAXWELL
@@ -6511,7 +6511,7 @@ msgstr "Оно горело ярко."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.BLOWDART_FIRE
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BLOWDART_FIRE
 msgid "Shall I burn down the world?"
-msgstr "Должена ли я сжечь мир?"
+msgstr "Должна ли я сжигать мир?"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.HONEYCOMB
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.HONEYCOMB
@@ -6531,7 +6531,7 @@ msgstr "Оно режет в темноте."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WALRUSHAT
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WALRUSHAT
 msgid "What feverish thoughts transpired beneath this?"
-msgstr "Что лихорадочные мысли выяснились под этим?"
+msgstr "Какие лихорадочные мысли происходили из-за нее."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.TORCH
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.TORCH
@@ -6546,7 +6546,7 @@ msgstr "Скользкий и тонкий."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.RED_CAP
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.RED_CAP
 msgid "A mushroom after my own heart."
-msgstr "Грибы после моего  сердца."
+msgstr "Грибы для моего сердца."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDER.SLEEPING
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDER.SLEEPING
@@ -6556,7 +6556,7 @@ msgstr "Зло спит."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDER.DEAD
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDER.DEAD
 msgid "We will meet again some day."
-msgstr "Мы еще встретимся когда-нибудь."
+msgstr "Мы еще встретимся, когда-нибудь."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.BLUE_MUSHROOM.GENERIC
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BLUE_MUSHROOM.GENERIC
@@ -6571,12 +6571,12 @@ msgstr "Собрано."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.BLUE_MUSHROOM.INGROUND
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BLUE_MUSHROOM.INGROUND
 msgid "I would hide too, if I could."
-msgstr "Я спряталась  также, если бы могла."
+msgstr "Я бы спряталась  также, если бы могла."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.PETALS
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.PETALS
 msgid "I have destroyed something beautiful."
-msgstr "Я уничтожил нечто прекрасное."
+msgstr "Я уничтожила нечто прекрасное."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.BERRIES
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BERRIES
@@ -6591,7 +6591,7 @@ msgstr "У него огненный характер."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.GUNPOWDER
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.GUNPOWDER
 msgid "It is a dark path I tread."
-msgstr "Это темный путь, в который я вступаю."
+msgstr "Это темный путь на который я вступаю."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.NITRE
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.NITRE
@@ -6601,7 +6601,7 @@ msgstr "В этом и заключается глупость человека."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.TRAP_TEETH_MAXWELL
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.TRAP_TEETH_MAXWELL
 msgid "Death when I least expect it."
-msgstr "Смерть, когда я меньше всего этого ожидал."
+msgstr "Смерть, когда я меньше всего этого ожидала."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.BLUE_CAP
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BLUE_CAP
@@ -6616,7 +6616,7 @@ msgstr "Сон, всего лишь анонс смерти."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SEEDS
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.SEEDS
 msgid "Life, or at least the promise of it."
-msgstr "Жизнь, по крайней мере, обещание этого."
+msgstr "Жизнь, по крайней мере, ее возможность."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.REEDS.GENERIC
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.REEDS.GENERIC
@@ -6626,7 +6626,7 @@ msgstr "Это просто куча камыша."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.REEDS.PICKED
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.REEDS.PICKED
 msgid "I have picked them."
-msgstr "Я выбрал их."
+msgstr "Я его уже собрала их ."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.REEDS.BURNING
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.REEDS.BURNING
@@ -6716,7 +6716,7 @@ msgstr "Совершенно безопасный способ сойти с ума."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.ONEMANBAND
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.ONEMANBAND
 msgid "I used to take such joy in instruments like these."
-msgstr "Раньше я радовался инструментам, как этим."
+msgstr "Раньше я радовался инструментам,таким как эти."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESTER
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESTER
@@ -6726,7 +6726,7 @@ msgstr "Пушистый мохнатый шар."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.REDGEM
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.REDGEM
 msgid "Red like my heart's blood."
-msgstr "Красный, как кровь моего сердца."
+msgstr "Красный, как кровь, в моем сердце."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.HEALINGSALVE
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.HEALINGSALVE
@@ -6746,7 +6746,7 @@ msgstr "Какое отвратительное создание!"
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.CAMPFIRE.GENERIC
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.CAMPFIRE.GENERIC
 msgid "I might survive this night!"
-msgstr "Я мог бы пережить эту ночь!"
+msgstr " Я могу пережить эту ночь!"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.CAMPFIRE.OUT
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.CAMPFIRE.OUT
@@ -6911,7 +6911,7 @@ msgstr "Это моя сестра-близнец, Эбигейл."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.GREEN_CAP
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.GREEN_CAP
 msgid "This mushroom is disappointingly normal."
-msgstr "этот гриб удручающе нормальный."
+msgstr " Этот гриб неутешительно нормальный."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SPOILED_FOOD
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.SPOILED_FOOD
@@ -6931,7 +6931,7 @@ msgstr "По крайней мере, они удобны."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.PIGHOUSE.LIGHTSOUT
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.PIGHOUSE.LIGHTSOUT
 msgid "Now I am all alone."
-msgstr "Теперь я совершенно один."
+msgstr "Теперь я совершенно одна."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.PIGHOUSE.FULL
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.PIGHOUSE.FULL
@@ -7031,12 +7031,12 @@ msgstr "Острый и смертельный."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.ICEBOX
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.ICEBOX
 msgid "It is as cold as my heart."
-msgstr "Так же холодно как мое сердце."
+msgstr "Такой же холодный, как мое сердце."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.TRUNK_WINTER
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.TRUNK_WINTER
 msgid "Separated from its only friend."
-msgstr "Отдельно от своего единственного друга."
+msgstr "Отделен от своего единственного друга."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SMALLMEAT_DRIED
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.SMALLMEAT_DRIED
@@ -7051,7 +7051,7 @@ msgstr "Он противостоит жестоким условиям."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.STRAWHAT
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.STRAWHAT
 msgid "I shall cover my head."
-msgstr "Я покрою свою голову."
+msgstr "Одену на голову."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.DIRTPILE
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.DIRTPILE
@@ -7096,7 +7096,7 @@ msgstr "Жизнь, скорее начатая, является жизнью, скорее законченной."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.TALLBIRDEGG_CRACKED.SHORT
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.TALLBIRDEGG_CRACKED.SHORT
 msgid "Soon now."
-msgstr "Вскоре сейчас."
+msgstr "Сейчас."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.RAZOR
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.RAZOR
@@ -7141,7 +7141,7 @@ msgstr "Тюрьма для крошечных насекомых."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDERQUEEN
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDERQUEEN
 msgid "She is regal in her horribleness."
-msgstr "Она корола в своей чудовищности."
+msgstr "Она королева в своей чудовищности."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.NIGHTMAREFUEL
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.NIGHTMAREFUEL
@@ -7181,12 +7181,12 @@ msgstr "Что защитит меня от того, что внутри?"
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.TREASURECHEST
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.TREASURECHEST
 msgid "For which to contain my lucre."
-msgstr "Для которого можно содержать мою прибыль."
+msgstr "Для хранения моей прибыли."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.ARMORWOOD
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.ARMORWOOD
 msgid "I might hold off the inevitable a bit longer with this."
-msgstr "Я мог бы удержать неизбежность немного дольше с этим."
+msgstr " С этим, я могла бы удержать неизбежность немного дольше."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.BUTTERFLY.GENERIC
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BUTTERFLY.GENERIC
@@ -7206,7 +7206,7 @@ msgstr "Он вон там, просто лежит."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.HEATROCK.HOT
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.HEATROCK.HOT
 msgid "Those that burn brightest, burn fastest."
-msgstr "Те кто светят ярче всех, сгорают быстрее всех."
+msgstr "Те, кто светят ярче всех, сгорают быстрее всех."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.HEATROCK.COLD
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.HEATROCK.COLD
@@ -7216,7 +7216,7 @@ msgstr " Холодный и безжизненный, как любая скала."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.HEATROCK.WARM
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.HEATROCK.WARM
 msgid "Even now it's warmth is fading..."
-msgstr "Даже  тепло исчезнет ..."
+msgstr "Даже сейчас это тепло исчезает..."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.RESURRECTIONSTATUE
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.RESURRECTIONSTATUE
@@ -7226,7 +7226,7 @@ msgstr "Я просто откладываю неизбежность."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WALL_WOOD_ITEM
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WALL_WOOD_ITEM
 msgid "Bundled logs."
-msgstr "Другие журналы."
+msgstr "Связанная древесина."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.BERRYBUSH.GENERIC
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BERRYBUSH.GENERIC
@@ -7266,7 +7266,7 @@ msgstr "Внутрености механического демона."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.HOMESIGN
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.HOMESIGN
 msgid "A mark is made, however transient."
-msgstr "Пометка есть, но она не вечна."
+msgstr "Знак сделан, но временно"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.RED_MUSHROOM.GENERIC
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.RED_MUSHROOM.GENERIC
@@ -7326,12 +7326,12 @@ msgstr "Приготовленное зло все еще злое."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.RABBITHOLE
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.RABBITHOLE
 msgid "I'm too big to fall down there."
-msgstr "Я слишком большой, чтобы упасть вниз."
+msgstr "Я слишком большая, чтобы упасть вниз."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.PLANT_NORMAL.GENERIC
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.PLANT_NORMAL.GENERIC
 msgid "An edible plant."
-msgstr "Съедобных растений."
+msgstr "Съедобное растение."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.PLANT_NORMAL.READY
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.PLANT_NORMAL.READY
@@ -7376,7 +7376,7 @@ msgstr "О, исчезло."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.BUTTERFLYWINGS
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BUTTERFLYWINGS
 msgid "No more can the butterfly soar."
-msgstr "Ничего не может , как бабочка, взлетать."
+msgstr " Никто не может летать как бабочка."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.BEEBOX.GENERIC
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BEEBOX.GENERIC
@@ -7496,7 +7496,7 @@ msgstr "Настолько полный потенциала."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.RESEARCHLAB3
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.RESEARCHLAB3
 msgid "I have learnt unspeakable things."
-msgstr "Я узнал отвратительные вещи."
+msgstr "Я узнала отвратительные вещи."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.KRAMPUS
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.KRAMPUS
@@ -7551,7 +7551,7 @@ msgstr "Какие сумасшедшие мысли должны стоять за теми глазами."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.BEEFALO.SLEEPING
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BEEFALO.SLEEPING
 msgid "What nightmares he must be having."
-msgstr "Какие кошмары, он должен иметь."
+msgstr "Какие у него должны были быть кошмары."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.BEEFALO.FOLLOWER
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BEEFALO.FOLLOWER
@@ -7606,7 +7606,7 @@ msgstr "Палочка и шелк оказались смертельными."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.MANDRAKE.GENERIC
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.MANDRAKE.GENERIC
 msgid "The mighty mandrake. I should pick it at night."
-msgstr "Могучая мандрагора. Ночью я должен забрать  ее себе."
+msgstr " Могучая мандрагора. Ночью я должна забрать ее себе."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.MANDRAKE.PICKED
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.MANDRAKE.PICKED
@@ -7631,7 +7631,7 @@ msgstr "Какой дьявольский инструмент!"
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.HAMMER
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.HAMMER
 msgid "Oh that I may crush the world."
-msgstr "О то, чем я могу сокрушить мир."
+msgstr  О, это то, чем я могу сокрушить мир."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.LIVINGLOG
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.LIVINGLOG
@@ -7641,7 +7641,7 @@ msgstr "Этот тихий крик, навсегда."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.ROCK
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.ROCK
 msgid "Even that is not permanent."
-msgstr "Даже это не постоянно."
+msgstr "Даже это не вечно."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.MARSH_BUSH
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.MARSH_BUSH
@@ -7651,7 +7651,7 @@ msgstr "Кустарник, который причиняет боль."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SPEAR
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.SPEAR
 msgid "I have become the destroyer of worlds."
-msgstr "Я стал разрушителем миров."
+msgstr "Я стала разрушителем миров."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.PINECONE
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.PINECONE
@@ -7666,7 +7666,7 @@ msgstr "В конечном итоге, боль повторится."
 #. STRINGS.CHARACTERS.WENDY.ANNOUNCE_HUNGRY
 #: STRINGS.CHARACTERS.WENDY.ANNOUNCE_HUNGRY
 msgid "I am full of emptiness."
-msgstr "Я полон пустоты."
+msgstr "Я полна пустоты."
 
 #. STRINGS.CHARACTERS.WENDY.ANNOUNCE_ENTER_LIGHT
 #: STRINGS.CHARACTERS.WENDY.ANNOUNCE_ENTER_LIGHT
@@ -7676,7 +7676,7 @@ msgstr "Да будет свет!"
 #. STRINGS.CHARACTERS.WENDY.ANNOUNCE_DUSK
 #: STRINGS.CHARACTERS.WENDY.ANNOUNCE_DUSK
 msgid "The darkness will be here soon. I must prepare."
-msgstr "Темнеет. Я должен подготовиться."
+msgstr "Темнеет. Я должна подготовиться."
 
 #. STRINGS.CHARACTERS.WENDY.ANNOUNCE_ENTER_DARK
 #: STRINGS.CHARACTERS.WENDY.ANNOUNCE_ENTER_DARK
@@ -7686,7 +7686,7 @@ msgstr "Тьма поглотила меня."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE_TOODARK
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE_TOODARK
 msgid "The darkness! It is too dark!"
-msgstr "Темнота! Это слишком темно!"
+msgstr "Темнота! Тут слишком темно!"
 
 #. STRINGS.CHARACTERS.WENDY.ANNOUNCE_HOUNDS
 #: STRINGS.CHARACTERS.WENDY.ANNOUNCE_HOUNDS
@@ -7701,12 +7701,12 @@ msgstr "Вы испытываете мое терпение."
 #. STRINGS.CHARACTERS.WENDY.ANNOUNCE_CHARLIE
 #: STRINGS.CHARACTERS.WENDY.ANNOUNCE_CHARLIE
 msgid "Demon! Show yourself!"
-msgstr "Демон! Покажите себя!"
+msgstr "Демон! Покажи себя!"
 
 #. STRINGS.CHARACTERS.WENDY.COMBAT_QUIT.GENERIC
 #: STRINGS.CHARACTERS.WENDY.COMBAT_QUIT.GENERIC
 msgid "You shall live. For now."
-msgstr "Ты будешь жить. На данный момент."
+msgstr "Ты будешь жить. Пока."
 
 #. STRINGS.CHARACTERS.WENDY.ANNOUNCE_TORCH_OUT
 #: STRINGS.CHARACTERS.WENDY.ANNOUNCE_TORCH_OUT
@@ -9476,7 +9476,7 @@ msgstr "ПРИВЕТ, БРАТ."
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.PIGTENT
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.PIGTENT
 msgid "TENT"
-msgstr "ПАЛАТКА"
+msgstr "ПАЛАТКУ"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.TOPHAT
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.TOPHAT
@@ -12886,7 +12886,7 @@ msgstr "Я уверен, я найду ему применение в конечном счете."
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ROBIN_WINTER.GENERIC
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.ROBIN_WINTER.GENERIC
 msgid "Life in the frozen wastes."
-msgstr "Жизнь в замерзших отходах."
+msgstr "Он живет в замерзших отходах."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ROBIN_WINTER.HELD
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.ROBIN_WINTER.HELD
