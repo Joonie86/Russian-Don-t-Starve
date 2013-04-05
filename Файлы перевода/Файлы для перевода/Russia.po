@@ -1589,7 +1589,7 @@ msgid ""
 "you encounter in the forum."
 msgstr ""
 "Don't Starve пока что в бета-тестировании. Пожалуйста, сообщите обо всех "
-"найденых Вами проблемах на нашем форуме."
+"найденых Вами проблемах нам на форум."
 
 #. STRINGS.UI.MAINSCREEN.TESTING
 #: STRINGS.UI.MAINSCREEN.TESTING
@@ -9346,7 +9346,7 @@ msgstr "УГРОЗА ОСТАНОВЛЕНА"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.TALLBIRDEGG
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.TALLBIRDEGG
 msgid "IS IT STILL ALIVE?"
-msgstr "ОН ВСЕ ЕЩЕ ЖИВ?\v"
+msgstr "ОН ВСЕ ЕЩЕ ЖИВ?"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WALRUS_TUSK
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WALRUS_TUSK
