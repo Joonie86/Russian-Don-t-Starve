@@ -1066,7 +1066,7 @@ msgstr "Прикл."
 #. STRINGS.UI.LOADGAMESCREEN.TITLE
 #: STRINGS.UI.LOADGAMESCREEN.TITLE
 msgid "Choose A Slot"
-msgstr "Выберете слот"
+msgstr "Выберите слот"
 
 #. STRINGS.UI.LOADGAMESCREEN.RESTART
 #: STRINGS.UI.LOADGAMESCREEN.RESTART
@@ -1649,7 +1649,7 @@ msgstr "Сообщить мне!"
 #. STRINGS.UI.MAINSCREEN.NEXTBUILDIMMINENT
 #: STRINGS.UI.MAINSCREEN.NEXTBUILDIMMINENT
 msgid "Next build imminent!"
-msgstr "Следующий билд неизбежен!"
+msgstr "Обновление неизбежно!"
 
 #. STRINGS.UI.MAINSCREEN.IMPORTSUCCESSDESC
 #: STRINGS.UI.MAINSCREEN.IMPORTSUCCESSDESC
@@ -3180,7 +3180,7 @@ msgstr "Семена Дуриана"
 #. STRINGS.NAMES.CROW
 #: STRINGS.NAMES.CROW
 msgid "Crow"
-msgstr "Ворона"
+msgstr "Ворону"
 
 #. STRINGS.NAMES.BERRYBUSH2
 #: STRINGS.NAMES.BERRYBUSH2
@@ -3825,7 +3825,7 @@ msgstr "Пепел"
 #. STRINGS.NAMES.TERRORBEAK
 #: STRINGS.NAMES.TERRORBEAK
 msgid "Terrorbeak"
-msgstr "Терроклюв"
+msgstr "Терроклюва"
 
 #. STRINGS.NAMES.PEROGIES
 #: STRINGS.NAMES.PEROGIES
@@ -4475,7 +4475,7 @@ msgstr "Пчела-Убийца"
 #. STRINGS.NAMES.BEE
 #: STRINGS.NAMES.BEE
 msgid "Bee"
-msgstr "Пчела"
+msgstr "Пчелу"
 
 #. STRINGS.NAMES.SPIDERHAT
 #: STRINGS.NAMES.SPIDERHAT
@@ -4620,7 +4620,7 @@ msgstr "Клык Моржа"
 #. STRINGS.NAMES.CRAWLINGHORROR
 #: STRINGS.NAMES.CRAWLINGHORROR
 msgid "Crawling Horror"
-msgstr "Ползучий ужас"
+msgstr "Ползучего ужаса"
 
 #. STRINGS.NAMES.BUTTERFLYWINGS
 #: STRINGS.NAMES.BUTTERFLYWINGS
