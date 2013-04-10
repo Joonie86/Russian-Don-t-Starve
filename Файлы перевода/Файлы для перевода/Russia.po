@@ -13,33 +13,27 @@ msgstr ""
 "Application: Dont' Starve\n"
 "POT Version: 2.0\n"
 
-
 #. STRINGS.PIG_TALK_HELP_CHOP_WOOD.1
-#, fuzzy
 msgctxt "STRINGS.PIG_TALK_HELP_CHOP_WOOD.1"
 msgid "KILL TREE!"
 msgstr "ћќя ”Ќ»„“ќ∆ј“№ ƒ≈–≈¬№я!"
 
 #. STRINGS.PIG_TALK_HELP_CHOP_WOOD.2
-#, fuzzy
 msgctxt "STRINGS.PIG_TALK_HELP_CHOP_WOOD.2"
 msgid "SMASH MEAN TREE!"
 msgstr "ћќя  –”Ў»“№ ƒ≈–≈¬№я!"
 
 #. STRINGS.PIG_TALK_HELP_CHOP_WOOD.3
-#, fuzzy
 msgctxt "STRINGS.PIG_TALK_HELP_CHOP_WOOD.3"
 msgid "I PUNCH TREE!"
-msgstr "ћќя Ѕ»“№ ƒ≈–≈¬№я"
+msgstr "ћќя Ѕ»“№ ƒ≈–≈¬№я!"
 
 #. STRINGS.CHARACTER_QUOTES.wilson
-#, fuzzy
 msgctxt "STRINGS.CHARACTER_QUOTES.wilson"
 msgid "\"I will conquer it all with the power of my MIND!\""
 msgstr "\"я буду побеждать силой своего –ј«”ћј!\""
 
 #. STRINGS.CHARACTER_QUOTES.wendy
-#, fuzzy
 msgctxt "STRINGS.CHARACTER_QUOTES.wendy"
 msgid "\"Abigail? Come back! I'm not done playing with you.\""
 msgstr "\"јбигейл? ¬ернись! я с тобой еще не доиграла.\""
@@ -4343,7 +4337,6 @@ msgid "Honey Nuggets"
 msgstr "ћедовые наггетсы"
 
 #. STRINGS.NAMES.EVERGREEN_TALL
-#, fuzzy
 msgctxt "STRINGS.NAMES.EVERGREEN_TALL"
 msgid "Evergreen"
 msgstr "≈ль"
@@ -14956,7 +14949,7 @@ msgstr "— высоким содержанием фруктозы."
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BLUEPRINT"
 msgid "It's scientific!"
-msgstr ""
+msgstr "ќн Ќачуный!"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.FROGLEGS_COOKED
 #, fuzzy
