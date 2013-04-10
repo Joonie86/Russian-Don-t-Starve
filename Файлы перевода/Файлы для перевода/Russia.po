@@ -10,6 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=CP1251\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.5.5\n"
+"Application: Dont' Starve\n"
+"POT Version: 2.0\n"
+
 
 #. STRINGS.PIG_TALK_HELP_CHOP_WOOD.1
 #, fuzzy
