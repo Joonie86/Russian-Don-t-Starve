@@ -1980,10 +1980,9 @@ msgid "Reset profile!"
 msgstr "Сброс Профиля"
 
 #. STRINGS.UI.MAINSCREEN.SCRIPTERRORQUIT
-#, fuzzy
 msgctxt "STRINGS.UI.MAINSCREEN.SCRIPTERRORQUIT"
 msgid "Exit Game"
-msgstr "Покинуть игру"
+msgstr "Выйти из игры"
 
 #. STRINGS.UI.MAINSCREEN.RESTART
 #, fuzzy
@@ -4516,10 +4515,9 @@ msgid "Fried Tallbird Egg"
 msgstr "Жареное яйцо Большой птицы"
 
 #. STRINGS.NAMES.EVERGREEN_SHORT
-#, fuzzy
 msgctxt "STRINGS.NAMES.EVERGREEN_SHORT"
 msgid "Evergreen"
-msgstr "Ель"
+msgstr "Елку"
 
 #. STRINGS.NAMES.SWEATERVEST
 #, fuzzy
